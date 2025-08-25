@@ -80,7 +80,7 @@ const About = () => {
                 United States</p>
                 
                 <h3>Contact Info</h3>
-                <p>Email: surya@brewchei.com<br />
+                <p>Email: hello@brewchei.com<br />
                 Phone: 9063902001<br />
                 Customer Service: 8AM - 6PM PT</p>
               </div>
